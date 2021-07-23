@@ -1,0 +1,33 @@
+[legacy/profiles:/:6347d733-e5ef-4672-a56a-b16298bc1aa8]
+foreground-color='rgb(17,198,219)'
+visible-name='my_terminal'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(37,238,0)', 'rgb(243,235,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(17,198,219)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-columns=160
+default-size-rows=54
+use-system-font=false
+use-theme-colors=false
+font='Monospace 14'
+scrollback-unlimited=true
+background-color='rgb(0,43,54)'
+audible-bell=false
+scrollbar-policy='always'
+
+[legacy/profiles:]
+list=['6347d733-e5ef-4672-a56a-b16298bc1aa8']
+default='6347d733-e5ef-4672-a56a-b16298bc1aa8'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+foreground-color='rgb(18,218,241)'
+visible-name='my_terminal'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-columns=160
+default-size-rows=64
+use-system-font=false
+use-theme-colors=false
+font='Monospace 14'
+scrollback-unlimited=true
+background-color='rgb(6,38,46)'
+audible-bell=false
+
+[legacy]
+schema-version=uint32 3
