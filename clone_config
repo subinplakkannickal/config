@@ -16,7 +16,7 @@ echo "Updating .bashrc..."
  
 echo "source ~/config/bashrc_extn" >> ~/.bashrc
 echo "" >> ~/.bashrc
-echo 'export PS1="\033[34m\u@\h \033[32m\w\033[033m\$(git_branch)\033[36m\$"' >> ~/.bashrc
+echo 'export PS1="\[\033[34m\]\u@\h \[\033[32m\]\w\[\033[033m\]\$(git_branch)\[\033[36m\]\$ "' >> ~/.bashrc
 #################################################################################################
 echo "gnome-terminal Setting up..."
 
